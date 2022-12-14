@@ -1,0 +1,22 @@
+{
+  "name": "font-awesome-grunticon-rails",
+  "description": "fontawesome -> multi-format (grunticon) compilation grunt tasks",
+  "version": "0.1.2",
+  "devDependencies": {
+    "font-awesome-svg-png": "1.1.5",
+    "glob": "^5.0.14",
+    "grunt": "~0.4.5",
+    "grunt-cli": "0.1.13",
+    "grunt-contrib-clean": "0.6.0",
+    "grunt-contrib-copy": "^0.8.0",
+    "grunt-contrib-jshint": "^0.11.2",
+    "grunt-debug-task": "^0.1.7",
+    "grunt-grunticon": "2.2.1",
+    "jshint": "^2.8.0",
+    "jshint-stylish": "^2.0.1",
+    "load-grunt-tasks": "^3.2.0",
+    "mkdirp": "^0.5.1",
+    "svgpath": "^2.0.0",
+    "xmldom": "^0.1.19"
+  }
+}
